@@ -6,7 +6,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 import taller.controlador.AltaVehiculoControlador;
-import taller.controlador.ControladorTaller;
 
 import javax.swing.JButton;
 
